@@ -1,6 +1,4 @@
-package storage.baekjoon;
-
-import JavaGrammar.Generic.Powder;
+package algorithm.storage.baekjoon;
 
 import java.util.Scanner;
 

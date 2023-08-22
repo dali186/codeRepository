@@ -1,4 +1,4 @@
-package storage.baekjoon;
+package algorithm.storage.baekjoon;
 
 import org.w3c.dom.Node;
 

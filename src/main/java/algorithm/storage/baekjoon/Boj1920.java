@@ -1,4 +1,4 @@
-package storage.baekjoon;
+package algorithm.storage.baekjoon;
 
 import java.util.ArrayList;
 import java.util.Arrays;

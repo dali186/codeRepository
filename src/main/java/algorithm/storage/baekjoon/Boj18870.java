@@ -1,4 +1,4 @@
-package storage.baekjoon;
+package algorithm.storage.baekjoon;
 
 
 import java.io.OutputStream;

@@ -1,4 +1,4 @@
-package storage.programmers;
+package algorithm.storage.programmers;
 
 import java.util.ArrayList;
 

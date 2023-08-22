@@ -1,4 +1,4 @@
-package storage.baekjoon;
+package algorithm.storage.baekjoon;
 
 public class LeetCode125 {
     //A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters,
